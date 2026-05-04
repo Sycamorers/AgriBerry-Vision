@@ -21,9 +21,13 @@ The repository intentionally excludes raw images, model checkpoints, generated Q
 
 ## Dataset
 
-The raw image dataset is intended to be hosted separately on Hugging Face:
+The raw image dataset is hosted separately on Hugging Face:
 
 https://huggingface.co/datasets/Sycamorers/ABV
+
+The uploaded archive is available at:
+
+https://huggingface.co/datasets/Sycamorers/ABV/blob/main/abv_raw_images_data.tar.gz
 
 Current local dataset summary:
 
